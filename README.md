@@ -60,7 +60,7 @@ This portfolio is fully responsive and tested across:
 ---
 
 ## 📫 Contact
-📧 **Email:** hendahmed@gmail.com  
+📧 **Email:** hendelmsery138@gmail.com
 💼 **LinkedIn:** [Hend Ahmed](https://www.linkedin.com/in/hend-elmsery-098bab214/)  
 💻 **GitHub:** [HendElmsery](https://github.com/HendElmsery)
 
