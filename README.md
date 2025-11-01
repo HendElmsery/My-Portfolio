@@ -34,7 +34,7 @@ A full-stack task management application using **React + Supabase** for data sto
 ### 🛒 [E-Commerce App](https://shiny-puffpuff-dac03a.netlify.app/)
 A single-seller e-commerce UI with product filtering and cart management.
 
-### 🎬 [Movie App](https://movieapp23.netlify.app/)
+### 🎬 [Movie App](https://movieapp23.netlify.app//)
 A React app integrating a public movie API to browse and search for films dynamically.
 
 ### 🌦️ [Weather App](https://weatherapp-api2.netlify.app/)
