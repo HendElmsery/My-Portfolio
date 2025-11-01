@@ -7,7 +7,7 @@ I specialize in **React.js**, **JavaScript (ES6+)**, and **modern UI design**.
 ---
 
 ## 🌐 Live Demo
-👉 [View Portfolio](https://your-portfolio-link.netlify.app/)  
+👉 [View Portfolio](https://hendportfolio.netlify.app/)  
 *(Replace with your actual deployed link once ready)*
 
 ---
